@@ -1,6 +1,7 @@
 # SCH16T_Evt_Board
 
 Murata製IMUであるSCH16Tシリーズの開発ボード
+![](fig/fig0.png)
 
 ## システム構成図
 本基板のシステム構成図を次に示す。
